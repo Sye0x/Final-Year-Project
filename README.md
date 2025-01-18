@@ -4,7 +4,7 @@
 
 ### 1. Games
 
-- **Project Title:**
+- **AI Driven Npc**
 
 ### 2. AI (Artificial Intelligence)
 
@@ -15,10 +15,16 @@
 - **Martial Arts Move trackers**
 - **Fitness App with movement tracker**
 - **Group Study**
+- **Speak With me**
+- **Daily life skill teacher**
+- **Pot holes Alerts**
+- **Device Picker**
+- **3D Architecture**
+- **Leetcode Pattern Tracks**
 
 ### 3. Security
 
-- **Project Title:**
+- **Deep Fake Analyzer**
 
 ### 4. Other
 
@@ -26,6 +32,8 @@
 - **Recipe Share for diffrent locations**
 - **Scam Alerts**
 - **Career Educatonal Advisor**
+- **App Dev Emulator**
+- **Interior Design App**
 
 ## Additional Information
 
