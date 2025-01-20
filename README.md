@@ -9,7 +9,10 @@
 ### 2. AI (Artificial Intelligence)
 
 - **Technology Advisor**
+- **Pot holes Alerts**
 - **UI to Code**
+- **3D Architecture design Genrator**
+- **Leetcode Pattern Tracks**
 - **Medication Doubt**
 - **Situational Advisor**
 - **Martial Arts Move trackers**
@@ -17,27 +20,19 @@
 - **Group Study**
 - **Speak With me**
 - **Daily life skill teacher**
-- **Pot holes Alerts**
 - **Device Picker**
-- **3D Architecture**
-- **Leetcode Pattern Tracks**
 
 ### 3. Security
 
 - **Deep Fake Analyzer**
+- **Scam Alerts**
 
 ### 4. Other
 
 - **SAAS Handyman bookie**
 - **Recipe Share for diffrent locations**
-- **Scam Alerts**
 - **Career Educatonal Advisor**
 - **App Dev Emulator**
 - **Interior Design App**
 
 ## Additional Information
-
-- **Supervisor:**
-- **Timeline:**
-- **Resources Required:**
-- **References:**
