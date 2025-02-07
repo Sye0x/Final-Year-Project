@@ -32,6 +32,7 @@ The project can leverage the following technologies to achieve its goals:
 - **Speech Processing:** Integrate speech recognition and synthesis tools like Whisper, Vosk, or Google Text-to-Speech.
 - **Booking and Room Management:** Utilize real-time tracking and scheduling systems, such as Firebase, MongoDB, or hotel management APIs.
 - **Hotel Schematics Integration:** Use libraries for interactive interfaces like Leaflet, React.js, or D3.js for easy navigation and room booking.
+- **Front-End Development:** Flutter for a responsive, cross-platform user interface that works on Android, iOS, and other platforms.
 - **Data Privacy & Security:** Implement strong encryption protocols and secure storage options, such as AES encryption and GDPR-compliant data handling.
 
 ## **Why Edge Computing?**
@@ -50,4 +51,4 @@ Edge computing minimizes latency and enhances operational efficiency by processi
 
 ## **Summary**
 
-The Hotel Hospitality AI Manager is designed to modernize the hospitality industry by seamlessly blending multilingual AI services, interactive hotel schematics, and efficient booking management features. With the possibility of deploying on edge devices, it ensures real-time, secure, and personalized guest experiences while optimizing hotel operations. By leveraging cutting-edge technology, this solution empowers hotels to meet the demands of international travelers and deliver top-tier service efficiently and effectively.
+The Hotel Hospitality AI Manager is designed to modernize the hospitality industry by seamlessly blending multilingual AI services, interactive hotel schematics, and efficient booking management features. With the possibility of deploying on edge devices, it ensures real-time, secure, and personalized guest experiences while optimizing hotel operations. By leveraging Flutter for the front-end, this solution delivers a user-friendly and consistent experience across multiple platforms, empowering hotels to meet the demands of international travelers and deliver top-tier service efficiently and effectively.
